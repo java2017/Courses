@@ -6,6 +6,7 @@
   1. Udacity (https://www.udacity.com/)
   1. edX (https://www.edx.org/)
   1. Udemy (https://www.udemy.com/)
+  1. เครื่องมือ MOOCs คำแนะนำจากม.มหิดล (http://stang.sc.mahidol.ac.th/text/moocs.htm)
 #### มหาวิทยาลัยดัง มีการเรียนการสอน Online มากขึ้น  
   1. Harvard Online Learning (http://online-learning.harvard.edu/courses)
   1. MIT (https://mitprofessionalx.mit.edu/courses)
@@ -19,7 +20,7 @@
 #### มหาวิทยาลัยในไทยที่เปิดสอน Online ชัดเจนคือ
   1. มหาวิทยาลัยอัสสัมชัน (http://www.elearning.au.edu/)
   1. และในอนาคตยังมีอีกหลายมหาวิทยาลัย เช่น จุฬา (http://elearning.pharm.chula.ac.th/)
-  1. Mahidol (http://stang.sc.mahidol.ac.th/text/moocs.htm)
+  1. Mahidol (http://www.muelearning.ic.mahidol.ac.th/login/index.php)  
   1. KMILT (https://online.it.kmitl.ac.th/course/browse)
   1. ใช้เทคโนโลยีเก่า เช่น Moodle มี มหาวิทยาลัยเชียงใหม่ (https://elearning.cmu.ac.th/) มหาวิทยาลัยสงขลานครินทร์ (http://vclass.trang.psu.ac.th/) เป็นต้น
   
