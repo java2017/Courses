@@ -40,4 +40,5 @@
   1. ตัวอย่างการคำนวณค่าใช้จ่ายในหลักสูตร (Courses/files/OpenCurriculum_form1.ppt)
   1. หลักสูตรวิทย์ + ธุรกิจ (http://www.manager.co.th/qol/viewnews.aspx?NewsID=9600000015168)
   1. หลักสูตรสื่อการตลาดดิจิทัล (https://www.sangfans.com/digitaldpu60/)
+  1. แผนยุทธศาสตร์การเปิดหลักสูตรใหม่ มธ. (http://planning.tu.ac.th/images/Download/03Strategy/200260/02_200260.pdf)
   1. [ลำดับขั้นตอนการเสนอหลักสูตรใหม่](http://academic.udru.ac.th/~reg/images/05_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1.PDF)
