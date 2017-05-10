@@ -42,3 +42,7 @@
   1. หลักสูตรสื่อการตลาดดิจิทัล (https://www.sangfans.com/digitaldpu60/)
   1. แผนยุทธศาสตร์การเปิดหลักสูตรใหม่ มธ. (http://planning.tu.ac.th/images/Download/03Strategy/200260/02_200260.pdf)
   1. [ลำดับขั้นตอนการเสนอหลักสูตรใหม่](http://academic.udru.ac.th/~reg/images/05_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1.PDF)
+  1. เกณฑ์มาตรฐานหลักสุตรระดับปริญญาตรี 2558 (http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20gradu%202558.PDF)
+  1. เกณฑ์มาตรฐานหลักสุตรระดับบัณฑิตศึกษา 2558 (http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20post%20G%202558.PDF)
+  1. แนวทางการบริหารเกณฑ์มาตรฐานหลักสูตรระดับอุดมศึกษา 2558 (http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20ad%20cur%20Gui%202558.PDF)
+  1. แนวปฏิบัติตำมประกำศกระทรวงศึกษำธิกำร เรื่อง เกณฑ์มำตรฐำนหลักสูตร 2558 (http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2559%20ad%20cur%20gui-2.pdf)
