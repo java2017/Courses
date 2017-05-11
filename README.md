@@ -1,3 +1,31 @@
+# ประชุม กรรมการบริหาร เพื่อจัดทำหลักสูตรใหม่ 11 พ.ค.2560 ห้อง 332 เวลา 9.00 น.
+#####ข้อมูลเบื้องต้นเพื่อการพิจารณาเปิดหลักสูตร
+#### หลักการขอเปิดหลักสูตร
+  1. [สถิติการรับนักศึกษา ป.ตรี](http://register1.pbru.ac.th/admission/program.jsp)
+  1. [สถิติการรับนักศึกษา ป.ตรี ภาคนอกเวลา](http://register2.pbru.ac.th/admis/main.jsp?id=0)
+  1. [สถิติการรับนักศึกษา ป.โท](http://register1.pbru.ac.th/entrance/main.jsp?id=0)
+  1. ตัวอย่างการคำนวณค่าใช้จ่ายในหลักสูตร (https://github.com/java2017/Courses/blob/master/files/OpenCurriculum_form1.ppt)
+  1. หลักสูตรวิทย์ + ธุรกิจ (http://www.manager.co.th/qol/viewnews.aspx?NewsID=9600000015168)
+  1. หลักสูตรสื่อการตลาดดิจิทัล (https://www.sangfans.com/digitaldpu60/)
+  1. แผนยุทธศาสตร์การเปิดหลักสูตรใหม่ มธ. (http://planning.tu.ac.th/images/Download/03Strategy/200260/02_200260.pdf)
+  1. [ขั้นตอนการเสนอหลักสูตรใหม่ มรภ.เพชรบุรี](http://acad.pbru.ac.th/pdf/acad/%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3.pdf)
+  1. [ลำดับขั้นตอนการเสนอหลักสูตรใหม่ มรภ.อุดรธานี](http://academic.udru.ac.th/~reg/images/05_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1.PDF)
+  1. [วุฒิ มรภ.เพชรบุรี ที่ ก.ค.ศ. รับรอง](http://acad.pbru.ac.th/pdf/acad/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B8%81.%E0%B8%84.%E0%B8%A8.%20%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87.pdf)
+  1. [เกณฑ์มาตรฐานหลักสุตรระดับปริญญาตรี 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20gradu%202558.PDF)
+  1. [เกณฑ์มาตรฐานหลักสุตรระดับบัณฑิตศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20post%20G%202558.PDF)
+  1. [แนวทางการบริหารเกณฑ์มาตรฐานหลักสูตรระดับอุดมศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20ad%20cur%20Gui%202558.PDF)
+  1. [แนวปฏิบัติตามประกำศกระทรวงศึกษาธิการ เรื่อง เกณฑ์มำตรฐำนหลักสูตร 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2559%20ad%20cur%20gui-2.pdf)
+  1. [ข้อบังคับ มรภ.เพชรบุรี การจัดการศึกษาปริญญาตรี 2553](http://acad.pbru.ac.th/pdf/acad/General/531220regulations_the_degree_of_management.pdf)
+  1. [กรอบมาตรฐานคุณวุฒิระดบอุดมศึกษาแหงชาติ 2552](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-36%20TQF%202552.pdf)
+  1. [การเทียบโอนรายวิชา 2545](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-29%20transfer%20credit%202545.pdf)
+  1. [ขอแนะนําเกี่ยวกับแนวปฏิบัติที่ดีในการเทียบโอนผลการเรียนระดับปริญญา](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-30%20dvice-%20transfer%20credit.pdf)
+  1. [มคอ.1 สาขาคอมพิวเตอร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-38%20TQF2%20computer2552.pdf)
+  1. [มคอ.1 สาขาวิศวกรรมศาสตร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-47%20TQF%20engineer%202553.pdf)
+  1. [กฏ ระเบียบ สกอ.ทั้งหมด](http://www.mua.go.th/users/he-commission/law.php)
+#### ข้อบังคับต่าง ๆ 
+  1. [การออกฝึกสอนของ น.ศ.สายครุ](http://acad.pbru.ac.th/pdf/acad/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%AD%E0%B8%99.pdf)
+  1. [ข้อมูลนักศึกษา 2559](http://acad.pbru.ac.th/pdf/acad/Download/List_Juniors_2559_school_graduates.xls)
+
 # IT Courses
 #####ประชุมเสนอแผนเปิดหลักสูตรใหม่ 2563
 สถานการณ์ปัจจุบัน
@@ -36,28 +64,3 @@
   1. The Clouds -- a disruptive technology (https://www.youtube.com/watch?v=N7YToIDVCW4)
   1. Rethinking the way we provide access to higher education (https://www.youtube.com/watch?v=ZUWdLEm3Dws)
   1. Why colleges should stop using textbooks (https://www.youtube.com/watch?v=ooefPvdhLl8)
-#### หลักการขอเปิดหลักสูตร
-  1. [สถิติการรับนักศึกษา ป.ตรี](http://register1.pbru.ac.th/admission/program.jsp)
-  1. [สถิติการรับนักศึกษา ป.ตรี ภาคนอกเวลา](http://register2.pbru.ac.th/admis/main.jsp?id=0)
-  1. [สถิติการรับนักศึกษา ป.โท](http://register1.pbru.ac.th/entrance/main.jsp?id=0)
-  1. ตัวอย่างการคำนวณค่าใช้จ่ายในหลักสูตร (https://github.com/java2017/Courses/blob/master/files/OpenCurriculum_form1.ppt)
-  1. หลักสูตรวิทย์ + ธุรกิจ (http://www.manager.co.th/qol/viewnews.aspx?NewsID=9600000015168)
-  1. หลักสูตรสื่อการตลาดดิจิทัล (https://www.sangfans.com/digitaldpu60/)
-  1. แผนยุทธศาสตร์การเปิดหลักสูตรใหม่ มธ. (http://planning.tu.ac.th/images/Download/03Strategy/200260/02_200260.pdf)
-  1. [ขั้นตอนการเสนอหลักสูตรใหม่ มรภ.เพชรบุรี](http://acad.pbru.ac.th/pdf/acad/%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3.pdf)
-  1. [ลำดับขั้นตอนการเสนอหลักสูตรใหม่ มรภ.อุดรธานี](http://academic.udru.ac.th/~reg/images/05_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1.PDF)
-  1. [วุฒิ มรภ.เพชรบุรี ที่ ก.ค.ศ. รับรอง](http://acad.pbru.ac.th/pdf/acad/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B8%81.%E0%B8%84.%E0%B8%A8.%20%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87.pdf)
-  1. [เกณฑ์มาตรฐานหลักสุตรระดับปริญญาตรี 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20gradu%202558.PDF)
-  1. [เกณฑ์มาตรฐานหลักสุตรระดับบัณฑิตศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20post%20G%202558.PDF)
-  1. [แนวทางการบริหารเกณฑ์มาตรฐานหลักสูตรระดับอุดมศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20ad%20cur%20Gui%202558.PDF)
-  1. [แนวปฏิบัติตามประกำศกระทรวงศึกษาธิการ เรื่อง เกณฑ์มำตรฐำนหลักสูตร 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2559%20ad%20cur%20gui-2.pdf)
-  1. [ข้อบังคับ มรภ.เพชรบุรี การจัดการศึกษาปริญญาตรี 2553](http://acad.pbru.ac.th/pdf/acad/General/531220regulations_the_degree_of_management.pdf)
-  1. [กรอบมาตรฐานคุณวุฒิระดบอุดมศึกษาแหงชาติ 2552](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-36%20TQF%202552.pdf)
-  1. [การเทียบโอนรายวิชา 2545](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-29%20transfer%20credit%202545.pdf)
-  1. [ขอแนะนําเกี่ยวกับแนวปฏิบัติที่ดีในการเทียบโอนผลการเรียนระดับปริญญา](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-30%20dvice-%20transfer%20credit.pdf)
-  1. [มคอ.1 สาขาคอมพิวเตอร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-38%20TQF2%20computer2552.pdf)
-  1. [มคอ.1 สาขาวิศวกรรมศาสตร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-47%20TQF%20engineer%202553.pdf)
-  1. [กฏ ระเบียบ สกอ.ทั้งหมด](http://www.mua.go.th/users/he-commission/law.php)
-#### ข้อบังคับต่าง ๆ 
-  1. [การออกฝึกสอนของ น.ศ.สายครุ](http://acad.pbru.ac.th/pdf/acad/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%AD%E0%B8%99.pdf)
-  1. [ข้อมูลนักศึกษา 2559](http://acad.pbru.ac.th/pdf/acad/Download/List_Juniors_2559_school_graduates.xls)
