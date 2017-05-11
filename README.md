@@ -50,6 +50,7 @@
   1. [เกณฑ์มาตรฐานหลักสุตรระดับบัณฑิตศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20post%20G%202558.PDF)
   1. [แนวทางการบริหารเกณฑ์มาตรฐานหลักสูตรระดับอุดมศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20ad%20cur%20Gui%202558.PDF)
   1. [แนวปฏิบัติตามประกำศกระทรวงศึกษาธิการ เรื่อง เกณฑ์มำตรฐำนหลักสูตร 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2559%20ad%20cur%20gui-2.pdf)
+  1. [ข้อบังคับ มรภ.เพชรบุรี การจัดการศึกษาปริญญาตรี 2553](http://acad.pbru.ac.th/pdf/acad/General/531220regulations_the_degree_of_management.pdf)
   1. [กรอบมาตรฐานคุณวุฒิระดบอุดมศึกษาแหงชาติ 2552](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-36%20TQF%202552.pdf)
   1. [การเทียบโอนรายวิชา 2545](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-29%20transfer%20credit%202545.pdf)
   1. [ขอแนะนําเกี่ยวกับแนวปฏิบัติที่ดีในการเทียบโอนผลการเรียนระดับปริญญา](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-30%20dvice-%20transfer%20credit.pdf)
