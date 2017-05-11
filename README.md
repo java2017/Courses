@@ -46,6 +46,7 @@
   1. แผนยุทธศาสตร์การเปิดหลักสูตรใหม่ มธ. (http://planning.tu.ac.th/images/Download/03Strategy/200260/02_200260.pdf)
   1. [ขั้นตอนการเสนอหลักสูตรใหม่ มรภ.เพชรบุรี](http://acad.pbru.ac.th/pdf/acad/%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3.pdf)
   1. [ลำดับขั้นตอนการเสนอหลักสูตรใหม่ มรภ.อุดรธานี](http://academic.udru.ac.th/~reg/images/05_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1.PDF)
+  1. [วุฒิ มรภ.เพชรบุรี ที่ ก.ค.ศ. รับรอง](http://acad.pbru.ac.th/pdf/acad/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%97%E0%B8%B5%E0%B9%88%20%E0%B8%81.%E0%B8%84.%E0%B8%A8.%20%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87.pdf)
   1. [เกณฑ์มาตรฐานหลักสุตรระดับปริญญาตรี 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20gradu%202558.PDF)
   1. [เกณฑ์มาตรฐานหลักสุตรระดับบัณฑิตศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20post%20G%202558.PDF)
   1. [แนวทางการบริหารเกณฑ์มาตรฐานหลักสูตรระดับอุดมศึกษา 2558](http://www.mua.go.th/users/he-commission/doc/law/ohec%20law/2558%20ad%20cur%20Gui%202558.PDF)
