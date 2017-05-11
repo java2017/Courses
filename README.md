@@ -37,6 +37,9 @@
   1. Rethinking the way we provide access to higher education (https://www.youtube.com/watch?v=ZUWdLEm3Dws)
   1. Why colleges should stop using textbooks (https://www.youtube.com/watch?v=ooefPvdhLl8)
 #### หลักการขอเปิดหลักสูตร
+  1. [สถิติการรับนักศึกษา ป.ตรี](http://register1.pbru.ac.th/admission/program.jsp)
+  1. [สถิติการรับนักศึกษา ป.ตรี ภาคนอกเวลา](http://register2.pbru.ac.th/admis/main.jsp?id=0)
+  1. [สถิติการรับนักศึกษา ป.โท](http://register1.pbru.ac.th/entrance/main.jsp?id=0)
   1. ตัวอย่างการคำนวณค่าใช้จ่ายในหลักสูตร (https://github.com/java2017/Courses/blob/master/files/OpenCurriculum_form1.ppt)
   1. หลักสูตรวิทย์ + ธุรกิจ (http://www.manager.co.th/qol/viewnews.aspx?NewsID=9600000015168)
   1. หลักสูตรสื่อการตลาดดิจิทัล (https://www.sangfans.com/digitaldpu60/)
