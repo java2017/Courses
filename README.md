@@ -58,3 +58,6 @@
   1. [มคอ.1 สาขาคอมพิวเตอร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-38%20TQF2%20computer2552.pdf)
   1. [มคอ.1 สาขาวิศวกรรมศาสตร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-47%20TQF%20engineer%202553.pdf)
   1. [กฏ ระเบียบ สกอ.ทั้งหมด](http://www.mua.go.th/users/he-commission/law.php)
+#### ข้อบังคับต่าง ๆ 
+  1. [การออกฝึกสอนของ น.ศ.สายครุ](http://acad.pbru.ac.th/pdf/acad/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B8%A2%E0%B8%99/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B8%A8%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B8%AA%E0%B8%AD%E0%B8%99.pdf)
+  1. [ข้อมูลนักศึกษา 2559](http://acad.pbru.ac.th/pdf/acad/Download/List_Juniors_2559_school_graduates.xls)
