@@ -54,3 +54,4 @@
   1. [ขอแนะนําเกี่ยวกับแนวปฏิบัติที่ดีในการเทียบโอนผลการเรียนระดับปริญญา](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-30%20dvice-%20transfer%20credit.pdf)
   1. [มคอ.1 สาขาคอมพิวเตอร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-38%20TQF2%20computer2552.pdf)
   1. [มคอ.1 สาขาวิศวกรรมศาสตร์](http://www.mua.go.th/users/he-commission/doc/law/ministry%20law/1-47%20TQF%20engineer%202553.pdf)
+  1. [กฏ ระเบียบ สกอ.ทั้งหมด](http://www.mua.go.th/users/he-commission/law.php)
